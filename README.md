@@ -31,7 +31,7 @@ Meta Quest 3 기반 VR 로봇 분류 게임
 - Hand-specific Interaction
 - Dynamic Difficulty System
 
-[Repository](링크) | [Demo Video](링크)
+[Repository](https://github.com/YANG1404/Magnetic-Robots-Factory) | [Demo Video](링크)
 
 ### ZombieChess
 2D 전략 게임
