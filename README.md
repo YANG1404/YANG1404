@@ -40,7 +40,7 @@ Meta Quest 3 기반 VR 로봇 분류 게임
 - Client Programmer
 - 2026 호남권역 대학연합 게임잼 최우수상
 
-[Repository](https://github.com/YANG1404/ZombieChess_main) 
+[Repository](https://github.com/YANG1404/ZombieChess_main) | [Demo Video](https://youtu.be/wRdd250Olik)
 
 ### Text Legibility in Head-Fixed UI
 VR Head-Fixed UI의 텍스트 가독성 연구
