@@ -1,16 +1,52 @@
-## Hi there 👋
+# Gyeonghwan Yang
 
-<!--
-**YANG1404/YANG1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Client Programmer
 
-Here are some ideas to get you started:
+게임 시스템의 내부 동작을 이해하고,
+이를 더 나은 Player Experience로 연결하는 클라이언트 프로그래머를 목표로 하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- C# / Unity
+- C++
+- Meta XR SDK / Meta Quest 
+- Git / GitHub
+
+## Interests
+
+- Game Programming
+- XR / VR Interaction
+- Player Experience / HCI
+- Game AI
+
+## Featured Projects
+
+### Magnetic Robots Factory
+Meta Quest 3 기반 VR 로봇 분류 게임
+
+- Unity / C# / Meta XR SDK
+- 1인 개발
+- Grab / Ray Interaction
+- Pull Grab
+- Hand-specific Interaction
+- Dynamic Difficulty System
+
+[Repository](링크) | [Demo Video](링크)
+
+### ZombieChess
+2D 전략 게임
+
+- Unity / C#
+- Client Programmer
+- 2026 호남권역 대학연합 게임잼 최우수상
+
+[Repository](링크)
+
+### Text Legibility in Head-Fixed UI
+VR Head-Fixed UI의 텍스트 가독성 연구
+
+- Unity / C#
+- Meta Quest 3
+- VR UI / HCI
+
+[Repository](링크)
