@@ -40,7 +40,7 @@ Meta Quest 3 기반 VR 로봇 분류 게임
 - Client Programmer
 - 2026 호남권역 대학연합 게임잼 최우수상
 
-[Repository](https://github.com/YANG1404/ZombieChess_main)
+[Repository](https://github.com/YANG1404/ZombieChess_main) 
 
 ### Text Legibility in Head-Fixed UI
 VR Head-Fixed UI의 텍스트 가독성 연구
@@ -49,7 +49,7 @@ VR Head-Fixed UI의 텍스트 가독성 연구
 - Meta Quest 3
 - VR UI / HCI
 
-[Repository](https://github.com/YANG1404/Head-Fixed-Legibility-Project)
+[Repository](https://github.com/YANG1404/Head-Fixed-Legibility-Project) | [Demo Video](https://www.youtube.com/watch?v=KsfCg1Vtg4w)
 
 
 ### Flappy Bird with LibGDX
@@ -59,7 +59,7 @@ LibGDX 프레임 워크를 활용한 Flappy Bird 응용 게임
 - LibGDX
 - Android Studio
 
-[Repository](https://github.com/YANG1404/FlappyBird)
+[Repository](https://github.com/YANG1404/FlappyBird) | [Demo Video](https://www.youtube.com/watch?v=r4RytIKmgZc)
 
 
 
