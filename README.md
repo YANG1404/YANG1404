@@ -1,9 +1,9 @@
 # Gyeonghwan Yang
 
-Game Client Programmer
+Tech to Experience 
 
-게임 시스템의 내부 동작을 이해하고,
-이를 더 나은 Player Experience로 연결하는 클라이언트 프로그래머를 목표로 하고 있습니다.
+기술과 사람의 Interaction을 이해하고
+기술을 경험으로 연결하는 프로그래머
 
 ## Tech Stack
 
