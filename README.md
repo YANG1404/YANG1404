@@ -52,6 +52,15 @@ VR Head-Fixed UI의 텍스트 가독성 연구
 [Repository](https://github.com/YANG1404/Head-Fixed-Legibility-Project) | [Demo Video](https://www.youtube.com/watch?v=KsfCg1Vtg4w)
 
 
+### Conference-Tracker
+CS 주요 학회 일정 트래커
+
+- Next.js
+- Cloudflare Workers / Cloudflare D1 (SQLite)
+- Google Gemini API
+
+[Repository](https://github.com/YANG1404/Head-Fixed-Legibility-Project) | [Site](https://conference-tracker.sgy5134.chatgpt.site/)
+
 ### Flappy Bird with LibGDX
 LibGDX 프레임 워크를 활용한 Flappy Bird 응용 게임
 
